@@ -1,1 +1,2 @@
-sartoopjj/vpn-over-github|win-x64
+sartoopjj/vpn-over-github|windows_amd64
+
