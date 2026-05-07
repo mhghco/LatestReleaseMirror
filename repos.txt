@@ -1,1 +1,1 @@
-ircfspace/teleMirror|win-x64
+sartoopjj/vpn-over-github|win-x64
