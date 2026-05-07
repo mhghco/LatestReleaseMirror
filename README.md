@@ -157,14 +157,5 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="sartoopjj--vpn-over-github"></div>
 
-### sartoopjj--vpn-over-github
-
-🔗 [source](https://github.com/sartoopjj/vpn-over-github) – [<code><small>v0.2.1</small></code>](https://github.com/sartoopjj/vpn-over-github/releases/tag/v0.2.1)
-
-| File | Size | Download |
-|------|------|----------|
-| `gh-tunnel-client_windows_amd64.exe` | 10.4 MB | [⬇️ Download](https://raw.githubusercontent.com/mhghco/LatestReleaseMirror/main/releases/sartoopjj/vpn-over-github/gh-tunnel-client_windows_amd64.exe) |
-| `gh-tunnel-server_windows_amd64.exe` | 9.6 MB | [⬇️ Download](https://raw.githubusercontent.com/mhghco/LatestReleaseMirror/main/releases/sartoopjj/vpn-over-github/gh-tunnel-server_windows_amd64.exe) |
 <!-- RELEASES_END -->
