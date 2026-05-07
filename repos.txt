@@ -1,2 +1,2 @@
-sartoopjj/vpn-over-github|windows_amd64
+therealaleph/MasterHttpRelayVPN-RUST|windows_amd64
 
