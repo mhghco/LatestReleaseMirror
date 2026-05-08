@@ -157,13 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="therealaleph--masterhttprelayvpn-rust"></div>
+<div id="hightemp--proxy_switcher"></div>
 
-### therealaleph--MasterHttpRelayVPN-RUST
+### hightemp--proxy_switcher
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.17</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.17)
+🔗 [source](https://github.com/hightemp/proxy_switcher) – [<code><small>v1.0.5</small></code>](https://github.com/hightemp/proxy_switcher/releases/tag/v1.0.5)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.17.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/mhghco/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.17.apk) |
+| `proxy_switcher-release.apk` | 16.1 MB | [⬇️ Download](https://raw.githubusercontent.com/mhghco/LatestReleaseMirror/main/releases/hightemp/proxy_switcher/proxy_switcher-release.apk) |
 <!-- RELEASES_END -->
