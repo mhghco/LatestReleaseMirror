@@ -1,1 +1,1 @@
-therealaleph/MasterHttpRelayVPN-RUST|v8a
+hightemp/proxy_switcher|apk
