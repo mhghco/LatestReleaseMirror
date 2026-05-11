@@ -157,13 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="hightemp--proxy_switcher"></div>
+<div id="shirokhorshid--shirokhorshid-android"></div>
 
-### hightemp--proxy_switcher
+### shirokhorshid--shirokhorshid-android
 
-🔗 [source](https://github.com/hightemp/proxy_switcher) – [<code><small>v1.0.5</small></code>](https://github.com/hightemp/proxy_switcher/releases/tag/v1.0.5)
+🔗 [source](https://github.com/shirokhorshid/shirokhorshid-android) – [<code><small>v2026.03.17-75fc6ed</small></code>](https://github.com/shirokhorshid/shirokhorshid-android/releases/tag/v2026.03.17-75fc6ed)
 
 | File | Size | Download |
 |------|------|----------|
-| `proxy_switcher-release.apk` | 16.1 MB | [⬇️ Download](https://raw.githubusercontent.com/mhghco/LatestReleaseMirror/main/releases/hightemp/proxy_switcher/proxy_switcher-release.apk) |
+| `ShirOKhorshid-2026.03.17.apk` | 24.0 MB | [⬇️ Download](https://raw.githubusercontent.com/mhghco/LatestReleaseMirror/main/releases/shirokhorshid/shirokhorshid-android/ShirOKhorshid-2026.03.17.apk) |
 <!-- RELEASES_END -->
