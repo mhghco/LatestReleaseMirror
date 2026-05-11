@@ -1,1 +1,1 @@
-shirokhorshid/shirokhorshid-android|apk
+therealaleph/MasterHttpRelayVPN-RUST|apk
