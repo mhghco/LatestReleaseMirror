@@ -157,13 +157,17 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="shirokhorshid--shirokhorshid-android"></div>
+<div id="therealaleph--masterhttprelayvpn-rust"></div>
 
-### shirokhorshid--shirokhorshid-android
+### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/shirokhorshid/shirokhorshid-android) – [<code><small>v2026.03.17-75fc6ed</small></code>](https://github.com/shirokhorshid/shirokhorshid-android/releases/tag/v2026.03.17-75fc6ed)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.22</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.22)
 
 | File | Size | Download |
 |------|------|----------|
-| `ShirOKhorshid-2026.03.17.apk` | 24.0 MB | [⬇️ Download](https://raw.githubusercontent.com/mhghco/LatestReleaseMirror/main/releases/shirokhorshid/shirokhorshid-android/ShirOKhorshid-2026.03.17.apk) |
+| `mhrv-rs-android-arm64-v8a-v1.9.22.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/mhghco/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.22.apk) |
+| `mhrv-rs-android-armeabi-v7a-v1.9.22.apk` | 16.1 MB | [⬇️ Download](https://raw.githubusercontent.com/mhghco/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.22.apk) |
+| `mhrv-rs-android-universal-v1.9.22.apk` | 41.1 MB | [⬇️ Download](https://raw.githubusercontent.com/mhghco/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.22.apk) |
+| `mhrv-rs-android-x86-v1.9.22.apk` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/mhghco/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.22.apk) |
+| `mhrv-rs-android-x86_64-v1.9.22.apk` | 19.6 MB | [⬇️ Download](https://raw.githubusercontent.com/mhghco/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.22.apk) |
 <!-- RELEASES_END -->
