@@ -1,1 +1,1 @@
-hightemp/proxy_switcher|apk
+shirokhorshid/shirokhorshid-android|apk
