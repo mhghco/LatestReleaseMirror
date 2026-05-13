@@ -157,13 +157,18 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="termux--termux-app"></div>
+<div id="therealaleph--masterhttprelayvpn-rust"></div>
 
-### termux--termux-app
+### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/termux/termux-app) – [<code><small>v0.118.3</small></code>](https://github.com/termux/termux-app/releases/tag/v0.118.3)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.25</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.25)
 
 | File | Size | Download |
 |------|------|----------|
-| `termux-app_v0.118.3+github-debug_arm64-v8a.apk` | 33.4 MB | [⬇️ Download](https://raw.githubusercontent.com/mhghco/LatestReleaseMirror/main/releases/termux/termux-app/termux-app_v0.118.3+github-debug_arm64-v8a.apk) |
+| `mhrv-rs-android-arm64-v8a-v1.9.25.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/mhghco/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.25.apk) |
+| `mhrv-rs-linux-arm64.tar.gz` | 2.0 MB | [⬇️ Download](https://raw.githubusercontent.com/mhghco/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
+| `mhrv-rs-linux-musl-arm64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/mhghco/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-arm64.tar.gz) |
+| `mhrv-rs-macos-arm64-app.zip` | 4.6 MB | [⬇️ Download](https://raw.githubusercontent.com/mhghco/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64-app.zip) |
+| `mhrv-rs-macos-arm64.tar.gz` | 6.5 MB | [⬇️ Download](https://raw.githubusercontent.com/mhghco/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64.tar.gz) |
+| `mhrv-rs-windows-amd64.zip` | 7.5 MB | [⬇️ Download](https://raw.githubusercontent.com/mhghco/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
 <!-- RELEASES_END -->
