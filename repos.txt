@@ -1,1 +1,1 @@
-termux/termux-app|arm64
+therealaleph/MasterHttpRelayVPN-RUST|arm64|windows
